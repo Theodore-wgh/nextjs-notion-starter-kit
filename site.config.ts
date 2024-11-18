@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Math Phd to Learn Everything',
   domain: 'https://solar-dolphin-de1.notion.site/1424d2970634805394daf6300c5bf473',
-  author: 'wgh',
+  author: 'wgh & cza',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
