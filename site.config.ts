@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '1424d297063480daba22e60421ed9dd5',
+  rootNotionPageId: '1424d2970634805394daf6300c5bf473',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Math Phd to Learn Everything',
-  domain: 'https://solar-dolphin-de1.notion.site/1424d297063480daba22e60421ed9dd5',
+  domain: 'https://solar-dolphin-de1.notion.site/1424d2970634805394daf6300c5bf473',
   author: 'wgh',
 
   // open graph metadata (optional)
