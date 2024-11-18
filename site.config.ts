@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Math Phd to Learn Everything',
-  domain: 'https://solar-dolphin-de1.notion.site/Navigation-1424d297063480daba22e60421ed9dd5',
+  domain: 'https://solar-dolphin-de1.notion.site/1424d297063480daba22e60421ed9dd5',
   author: 'wgh',
 
   // open graph metadata (optional)
